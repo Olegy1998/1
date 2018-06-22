@@ -1,5 +1,5 @@
 alphavit = " abcdefghijklmnopqrstuvwxyz "
-n = int(input())
+n = 13
 s = input().strip()
 res = ''
 for c in s:
